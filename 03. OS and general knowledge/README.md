@@ -1,6 +1,7 @@
 # OS and general knowledge
 
-0. [Linux directory structure](https://linuxhandbook.com/linux-directory-structure/)
+0.1. [Linux directory structure](https://linuxhandbook.com/linux-directory-structure/)
+0.2. [Absolute & relative path](https://linuxhandbook.com/absolute-vs-relative-path/)
 1. [Terminal usage](https://www.youtube.com/watch?v=jDINUSK7rXE)
    1. [Linux Command Line](https://www.youtube.com/watch?v=YHFzr-akOas&list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As)
 2. [Basic Terminal Command (Linux)](https://www.fosslinux.com/45587/linux-command-cheat-sheet.htm)
