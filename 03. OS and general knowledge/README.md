@@ -1,6 +1,6 @@
 # OS and general knowledge
 
-0. Linux structure
+0. [Linux handbook](https://linuxhandbook.com/)
    1. [Linux directory structure](https://linuxhandbook.com/linux-directory-structure/)
    2. [Absolute & relative path](https://linuxhandbook.com/absolute-vs-relative-path/)
 3. [Terminal usage](https://www.youtube.com/watch?v=jDINUSK7rXE)
